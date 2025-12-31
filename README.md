@@ -125,23 +125,6 @@ Model berhasil mendeteksi lubang jalan pada gambar test dengan bounding box dan 
 | potholes54.jpg | 9 lubang |
 | potholes57.jpg | 3 lubang |
 
----
 
-## 📚 Referensi
 
-1. Ultralytics YOLOv11 Documentation - https://docs.ultralytics.com
-2. Wang, C.-Y., Yeh, I.-H., & Liao, H.-Y. M. (2024). YOLOv9: Learning What You Want to Learn Using Programmable Gradient   Information. arXiv preprint arXiv:2402.13616.
-3. Terven, J., Córdova-Esparza, D. M., & Romero-González, J. A. (2023). A Comprehensive Review of YOLO Architectures in Computer Vision: From YOLOv1 to YOLOv8 and YOLO-NAS. Machine Learning and Knowledge Extraction, 5(4), 1680–1716.
 
----
-
-## 📄 Lisensi
-
-Proyek ini dibuat untuk keperluan akademik mata kuliah **Visi Komputer** di Universitas Syiah Kuala.
-
----
-
-<p align="center">
-  <b>🎓 Proyek UAS Visi Komputer 2025</b><br>
-  M. Taris Rizki - Universitas Syiah Kuala
-</p>

@@ -130,8 +130,8 @@ Model berhasil mendeteksi lubang jalan pada gambar test dengan bounding box dan 
 ## 📚 Referensi
 
 1. Ultralytics YOLOv11 Documentation - https://docs.ultralytics.com
-2. Szeliski, Richard. *Computer Vision: Algorithms and Applications*. Springer, 2010.
-3. Howse, Joseph. *Learning OpenCV 4 Computer Vision with Python 3*. Packt Publishing, 2020.
+2. Wang, C.-Y., Yeh, I.-H., & Liao, H.-Y. M. (2024). YOLOv9: Learning What You Want to Learn Using Programmable Gradient   Information. arXiv preprint arXiv:2402.13616.
+3. Terven, J., Córdova-Esparza, D. M., & Romero-González, J. A. (2023). A Comprehensive Review of YOLO Architectures in Computer Vision: From YOLOv1 to YOLOv8 and YOLO-NAS. Machine Learning and Knowledge Extraction, 5(4), 1680–1716.
 
 ---
 
